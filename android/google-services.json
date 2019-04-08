@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77292675730",
+    "firebase_url": "https://jumpy2-19631.firebaseio.com",
+    "project_id": "jumpy2-19631",
+    "storage_bucket": "jumpy2-19631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77292675730:android:2a34b867f19a1e1d",
+        "android_client_info": {
+          "package_name": "com.rptr.jumpy2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77292675730-otv4rn6gbgecq9vea7jui711pajf386d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rptr.jumpy2",
+            "certificate_hash": "07cd30a06cfd66496aacaeb094e7870fecf485c3"
+          }
+        },
+        {
+          "client_id": "77292675730-rqe3lvg653le85r9dhubhjbmg94ojca1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUV1FR0_aqoGCq1JjlQwUuMeUEC5WVegA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77292675730-rqe3lvg653le85r9dhubhjbmg94ojca1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
