@@ -1,0 +1,17 @@
+
+* make clock sound continue for as long as the speed-up lasts
+* narrower collision on cows
+* faster milk rise?
+
+
+
+
+possibly:
+
+patterns for platforms
+enemy sweeping side to side to knock cows down
+    should knock a cow once and then disappear, to avoid complicated
+    collision crap. maybe just a bomb flying from the side?
+
+
+
